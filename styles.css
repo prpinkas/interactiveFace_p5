@@ -1,0 +1,10 @@
+body{background-color: '#FFF';
+    margin-top: 1em;
+h1,h2,p{font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    text-align: center;}
+h1,h2,iframe,p{display:block;
+    margin: 1em auto;
+    width: 500px;}
